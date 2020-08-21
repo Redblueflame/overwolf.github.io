@@ -61,7 +61,7 @@ This is a base class that holds the logic shared by the in_game and desktop wind
 
 Currently, the Overwolf SDK is written in javascript. These folders hold typescript wrappers and type definitions for the SDK methods used in this app.
 
-We are constantly working on improving our SDK and both the odk-ts and the types definition file will be released as proper packages in the future.
+A typescript definition package, `@overwolf/types` is available on npm, and makes it easier to use overwolf with typescript.
 
 ## icons
 
